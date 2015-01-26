@@ -9,5 +9,5 @@ You must add GCDAsyncSocket.h to your project's [bridging header](https://develo
 ## To Do:
 * Add support for the full [Instrumental agent API](https://instrumentalapp.com/docs).
 * Make this a complete framework bundle.
-* Add a CocoaPods podspec once CocoaPods supports Swift or mixed-language frameworks.
+* Make a [CocoaPods podspec](http://guides.cocoapods.org/making/making-a-cocoapod.html) once CocoaPods [supports Swift or mixed-language frameworks](http://blog.cocoapods.org/Pod-Authors-Guide-to-CocoaPods-Frameworks/).
 
